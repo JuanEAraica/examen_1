@@ -1,5 +1,4 @@
 package examen_1;
-
-public class BicicletaCarrera {
+public class BicicletaCarrera extends Bicicleta{
 
 }

@@ -1,5 +1,5 @@
 package examen_1;
 
-public class classHorquillaSuspencion {
+public class classHorquillaSuspencion implements Horquilla{
 
 }

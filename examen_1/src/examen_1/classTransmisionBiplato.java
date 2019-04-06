@@ -1,5 +1,5 @@
 package examen_1;
 
-public class classTransmisionBiplato {
+public class classTransmisionBiplato  implements Transmision{
 
 }

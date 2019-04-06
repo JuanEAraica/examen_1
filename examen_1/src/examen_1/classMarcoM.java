@@ -1,5 +1,5 @@
 package examen_1;
 
-public class classMarcoM {
+public class classMarcoM  implements Marco{
 
 }

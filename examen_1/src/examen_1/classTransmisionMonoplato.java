@@ -1,5 +1,5 @@
 package examen_1;
 
-public class classTransmisionMonoplato {
+public class classTransmisionMonoplato implements Transmision{
 
 }
